@@ -1,0 +1,15 @@
+.userList {
+  background: lightblue;
+  padding-left: 10px;
+}
+
+.albums_container {
+  display: flex;
+}
+.albums2 {
+  margin-left: 20px;
+}
+
+.albums {
+  z-index: -2;
+}
